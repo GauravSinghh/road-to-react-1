@@ -1,0 +1,12 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px blue;
+}
+#options{
+    display: flex;
+    
+}
+#options>h3{
+    margin-right: 20px;
+}
